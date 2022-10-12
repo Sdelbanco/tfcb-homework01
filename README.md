@@ -11,4 +11,4 @@
 
 ![freaky ant](/messy-project-directory/images/casent0172345_Rhytidoponera_metallica.jpg "Freaky ant")
 
-![freaky ant](/messy-project-directory/images/casent0191696_Camponotus_darwinii .jpg "Freaky ant")
+![freaky ant](/messy-project-directory/images/casent0191696_Camponotus_darwinii.jpg "Freaky ant")
