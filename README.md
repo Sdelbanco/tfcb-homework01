@@ -2,9 +2,11 @@
 
 ## Link to GitHub
 
-(https://github.com/Sdelbanco)
+https://github.com/Sdelbanco
 
-## Images
+## messy-project-directory
+
+### Images
 
 <ol>
   <li>casent0172345_Rhytidoponera_metallica</li>
