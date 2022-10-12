@@ -9,4 +9,4 @@
   <li>casent0906296_p_1_high_Cataglyphis_fortis</li>
 </ol>
 
-![freaky ant](Sdelbanco/tfcb-homework01/messy-project-directory/images/casent0172345_Rhytidoponera_metallica.jpg)
+![freaky ant](/messy-project-directory/images/casent0172345_Rhytidoponera_metallica.jpg "Freaky ant")
