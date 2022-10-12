@@ -14,3 +14,5 @@
 ![freaky ant](/messy-project-directory/images/casent0191696_Camponotus_darwinii.jpg "Freaky ant")
 
 ![freaky ant](/messy-project-directory/images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg "Freaky ant")
+
+![freaky ant](/messy-project-directory/images/casent0906296_p_1_high_Cataglyphis_fortis.jpg "Freaky ant")
