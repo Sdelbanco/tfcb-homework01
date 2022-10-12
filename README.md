@@ -25,8 +25,8 @@ https://github.com/Sdelbanco
 
 ### Survey Data
 
-| Plot:1         |         |     |        |
-| -------------- | ------- | --- | ------ |
+Plot 1
+
 | Date Collected | Species | Sex | Weight |
 | -------------- | ------- | --- | ------ |
 | 1/9/2014       | DM	     | M   | 40     |
